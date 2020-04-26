@@ -38,10 +38,12 @@ Using `import` & `export` to organize your code.
 
 To study these examples and exercises you will need to open each folder's `index.html` file with a server.  You can use the `server.js` file provided in [../isolate](../isolate).
 
-* `import` and `export`: [examples](../isolate/import-export-examples)
+* `import` and `export`: [examples](../isolate/import-export-examples),  [exercises](../isolate/import-export-exercises)
 
 ### Integrate
 
+* [Explore Pokemon](../integrate/explore-pokemon-obfuscated) (obfuscated)
+* [in-class project](https://github.com/hackyourfuturebelgium/explore-pokemon) (starter repository)
 
 ---
 
@@ -74,7 +76,9 @@ To study these examples and exercises you will need to open each folder's `index
 * [github-api-crash-course tutorial](https://www.youtube.com/watch?v=5QlE6o-iYcE).  (hint: avoid pushing your GitHub auth token!)
 * [what is CORS?](https://www.codecademy.com/articles/what-is-cors)
 
-### Project: `<username>.github.io`
+### Project
+
+#### `<username>.github.io`
 
 > [Open-Ended](https://github.com/HackYourFutureBelgium/homework-submission/#projects)
 
@@ -94,7 +98,7 @@ Your finished repository must include:
 * A complete README
 * A live demo
 
-You will be assessed not on completion, but also on the quality of your code, the correctness of your branches, the organization of your code, and the completeness of your README.
+You will be assessed not only completion, but also on the quality of your code, the correctness of your branches, the organization of your code, and the completeness of your README.
 
 
 ---
