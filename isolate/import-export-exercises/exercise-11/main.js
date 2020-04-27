@@ -1,4 +1,4 @@
-import { User } from './user.js';
+import User from './user.js';
 
 const userJohn = new User('John');
 const test1 = userJohn instanceof User;
