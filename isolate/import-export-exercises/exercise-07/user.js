@@ -1,1 +1,1 @@
-export default "John";
+export let user = "John";

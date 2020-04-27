@@ -1,3 +1,3 @@
-export default (user) => `Hello, ${user}!`;
+export let hi = (user) => `Hello, ${user}!`;
 
-export default (user) => `Bye, ${user}!`;
+export let bye = (user) => `Bye, ${user}!`;

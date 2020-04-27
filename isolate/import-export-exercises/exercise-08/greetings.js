@@ -1,5 +1,5 @@
-const sayHi = (user) => `Hello, ${user}!`;
+const hi = (user) => `Hello, ${user}!`;
 
-const sayBye = (user) => `Bye, ${user}!`;
+const bye = (user) => `Bye, ${user}!`;
 
 
